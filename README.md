@@ -14,19 +14,7 @@ Vai Bem Back-end
 
 # Todo
 
-## Empresas
-  - [x] Create
-  - [x] Read
-  - [x] Update
-  - [x] Delete
-
-## Unidades
-  - [x] Create
-  - [x] Read
-  - [x] Update
-  - [x] Delete
-
-## Ativos
+## Estabelecimentos
   - [x] Create
   - [x] Read
   - [x] Update
@@ -37,33 +25,6 @@ Vai Bem Back-end
   - [x] Read
   - [x] Update
   - [x] Delete
-
-## Status
-  - [x] Create
-  - [x] Read
-  - [x] Update
-  - [x] Delete
-
-## Ativos
-- imagem
-- nome
-- descrição
-- modelo
-- responsável
-- status
-- nivel de saúde (0-100%)
-- unidade_id
-
-## Unidade
-- empresa_id
-
-## Usuario
-- empresa_id
-
-### status
-- em operação
-- em alerta
-- em parada
 
 
 ## Uso
